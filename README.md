@@ -31,7 +31,7 @@ https://project-nqblk.vercel.app
 
 ## 📬 Contact
 - Email: uttamkumar27203@gmail.com
-- LinkedIn:uttam-kumar-912085322
+- LinkedIn: https://www.linkedin.com/in/uttam-kumar-912085322/
 - GitHub: https://github.com/Uttamkumar27203
 
 ---
